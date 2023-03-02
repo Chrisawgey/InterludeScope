@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/workspaces/InterludeScope/app/page":["/workspaces/InterludeScope/styles/globals.css"]},"/workspaces/InterludeScope/app/layout.js":["/workspaces/InterludeScope/styles/globals.css"]}
